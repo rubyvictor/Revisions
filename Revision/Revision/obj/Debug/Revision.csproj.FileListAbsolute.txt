@@ -1,0 +1,6 @@
+C:\Users\Viktory\Documents\GitHub\Practice and Workshop Queries\FOPCS Revisions\Revision\Revision\bin\Debug\Revision.exe.config
+C:\Users\Viktory\Documents\GitHub\Practice and Workshop Queries\FOPCS Revisions\Revision\Revision\bin\Debug\Revision.exe
+C:\Users\Viktory\Documents\GitHub\Practice and Workshop Queries\FOPCS Revisions\Revision\Revision\bin\Debug\Revision.pdb
+C:\Users\Viktory\Documents\GitHub\Practice and Workshop Queries\FOPCS Revisions\Revision\Revision\obj\Debug\Revision.csprojResolveAssemblyReference.cache
+C:\Users\Viktory\Documents\GitHub\Practice and Workshop Queries\FOPCS Revisions\Revision\Revision\obj\Debug\Revision.exe
+C:\Users\Viktory\Documents\GitHub\Practice and Workshop Queries\FOPCS Revisions\Revision\Revision\obj\Debug\Revision.pdb
